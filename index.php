@@ -13,8 +13,14 @@
 </BODY>
 </HTML>
           <?php 
-          $name = ;
-		  $comment=;
+    $name=$comment="";      
           		if(isset[$_POST['add']])
+        {
+          $name =$_POST["name"];
+		  $comment=$_POST["comment"];
+        }
+	
+      echo	"<br>'".$name."'<br>'".$comment."'";
+	 
 
 ?>
