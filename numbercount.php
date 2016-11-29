@@ -5,6 +5,6 @@ $num2 = array(1,2,3,4,5,6,7,8,9);
 foreach($num1 as $value1)
   foreach($num2 as $value2)
 	$value3 = $value1;  
-var_dump(json_encode($value3));
+print_r(json_encode($value3));
 
 ?>
