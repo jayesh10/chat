@@ -3,16 +3,7 @@
   	<TITLE>HOME</TITLE>
   </HEAD>
 <BODY>
-  <SECTION>
-  <form action="index.php" method="post">
-  		Name:<INPUT type="TEXT" name="name"><br>
-  		Comment:<INPUT type="TEXT" comment="comment"><br>
-         <INPUT Tpye="submit"  >
-   </form>
-  </SECTION>
-</BODY>
-</HTML>
-          <?php 
+  <?php 
     $name=$comment="";
 	
         if($_SERVER[REQUEST_METHOD]=="POST")
@@ -22,3 +13,13 @@
             $name = $_POST["name"];
 		if(empty())
 ?>
+  <SECTION>
+  <form action="index.php" method="post">
+  		Name:<INPUT type="TEXT" name="name"><br>
+  		Comment:<INPUT type="TEXT" comment="comment"><br>
+         <INPUT Tpye="submit"  >
+   </form>
+  </SECTION>
+</BODY>
+</HTML>
+          
