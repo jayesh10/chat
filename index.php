@@ -14,7 +14,7 @@
 		if(empty())
 ?>
   <SECTION>
-  <form action="index.php" method="post">
+  <form >
   		Name:<INPUT type="TEXT" name="name"><br>
   		Comment:<INPUT type="TEXT" comment="comment"><br>
          <INPUT Tpye="submit"  >
