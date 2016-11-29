@@ -7,7 +7,7 @@
   <form  action="index.php" method="post">
   		Name:&nbsp&nbsp&nbsp&nbsp<INPUT type="TEXT" name="name"><br>
   		Comment:&nbsp<INPUT type="TEXT" comment="comment"><br>
-         <BUTTON Tpye="submit" id="add" >Add The Comment</BUTTON>
+         <INPUT Tpye="submit"  value ="Add the comment">
    </form>
   </SECTION>
 </BODY>
