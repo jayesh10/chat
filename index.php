@@ -17,3 +17,4 @@
 		  $comment=;
           		if(isset[$_POST['add']])
 
+?>
