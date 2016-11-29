@@ -4,10 +4,10 @@
   </HEAD>
 <BODY>
   <SECTION>
-  <form  action="index.php" method="post">
+  <form action="index.php" method="post">
   		Name:&nbsp&nbsp&nbsp&nbsp<INPUT type="TEXT" name="name"><br>
   		Comment:&nbsp<INPUT type="TEXT" comment="comment"><br>
-         <INPUT Tpye="submit"  value ="Add the comment">
+         <INPUT Tpye="submit"  >
    </form>
   </SECTION>
 </BODY>
