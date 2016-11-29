@@ -5,8 +5,8 @@
 <BODY>
   <SECTION>
   <form action="index.php" method="post">
-  		Name:&nbsp&nbsp&nbsp&nbsp<INPUT type="TEXT" name="name"><br>
-  		Comment:&nbsp<INPUT type="TEXT" comment="comment"><br>
+  		Name:<INPUT type="TEXT" name="name"><br>
+  		Comment:<INPUT type="TEXT" comment="comment"><br>
          <INPUT Tpye="submit"  >
    </form>
   </SECTION>
