@@ -4,9 +4,9 @@
   </HEAD>
 <BODY>
   <SECTION>
-  		NAME:<INPUT type="TEXT" id="name"><br>
-  		Comment:<INPUT type="TEXT" id="comment"><br>
-          <BUTTON Tpye="SUBMIT" id="add" >ADD the comment</BUTTON>
+  		Name:&nbsp<INPUT type="TEXT" id="name"><br>
+  		Comment:&nbsp<INPUT type="TEXT" id="comment"><br>
+         <BUTTON Tpye="submit" id="add" >Add The Comment</BUTTON>
   </SECTION>
 </BODY>
 </HTML>
