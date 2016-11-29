@@ -13,14 +13,12 @@
 </BODY>
 </HTML>
           <?php 
-    $name=$comment="";      
-          		if(isset[$_POST['add']])
-        {
-          $name =$_POST["name"];
-		  $comment=$_POST["comment"];
-        }
+    $name=$comment="";
 	
-      echo	"<br>'".$name."'<br>'".$comment."'";
-	 
-
+        if($_SERVER[REQUEST_METHOD]=="POST")
+          if(empty($_POST["name]"))
+        	$namerr="Name is required!";
+			else
+            $name = $_POST["name"];
+		if(empty())
 ?>
