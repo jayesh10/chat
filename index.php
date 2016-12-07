@@ -13,7 +13,7 @@
   <form>
  	<div class="row">
   			<div class="form-group form-inline">
-  					<label id="name-id"class="col-xs-2">Enter the name:</label>
+  					<label id="name-id"class="">Enter the name:</label>
              
 					  <input type="text" class="form-control col-xs-8" id="name">
              
