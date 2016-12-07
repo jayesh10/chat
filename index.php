@@ -13,9 +13,9 @@
   <form>
  	<div class="row">
   			<div class="form-group row">
-  					<label id="name-id"class="col-md-2 ">Enter the name:</label>
+  					<label id="name-id">Enter the name:</label>
              
-					  <input type="text" class="form-control col-md-6" id="name">
+					  <input type="text" class="form-control " id="name">
              
                        <button  align="center" type="submit" class="btn btn-primary ">Add</button>
   			</div>
