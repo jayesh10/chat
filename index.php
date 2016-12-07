@@ -12,7 +12,6 @@
 <div class="container-fluid">
   <form>
  	<div class="row">
-		  <div class="col-xs-12 col-sm-6 col-md-12">
   			<div class="form-group form-inline">
   					<label id="name-id"class="col-xs-2">Enter the name:</label>
              
