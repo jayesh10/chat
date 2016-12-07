@@ -13,7 +13,7 @@
   <form>
  	<div class="row">
   		<div class="form-group ">
-  			<div class="col-sm-8 clo=-md-4 col-xs-2"
+  			<div class="col-sm-8 clo=-md-4 "
   					<label id="name-id">Enter the name:</label>
                       <input type="text" class="form-control" id="name">
                        <button  align="center "type="submit" class="btn btn-primary">Add</button>
