@@ -12,7 +12,7 @@
 <div class="container-fluid">
   <form>
  	<div class="row">
-  			<div class="form-group form-inline">
+  			<div class="form-group ">
   					<label id="name-id"class="">Enter the name:</label>
              
 					  <input type="text" class="form-control col-xs-8" id="name">
