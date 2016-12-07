@@ -13,13 +13,13 @@
   <form>
  	<div class="row">
   		<div class="form-group row">
- 			<div class="col-md-4">
+ 			<div class="col-md-2">
   					<label id="name-id">Enter the name:</label>
              </div>
-              <div class="col-md-4">
+              <div class="col-md-8">
                       <input type="text" class="form-control" id="name"><br>
                </div>
-               <div class="col-md-4">
+               <div class="col-md-2">
                        <button type="submit" class="btn btn-primary">Add</button>
                 </div>
   			</div>
