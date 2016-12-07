@@ -17,7 +17,7 @@
              
 					  <input type="text" class="form-control col-xs-8" id="name">
              
-                       <button  align="center "type="submit" class="btn btn-primary col-xs-2">Add</button>
+                       <button  align="center "type="submit" class="btn btn-primary ">Add</button>
   			</div>
   		</div>
 	</div>
