@@ -15,8 +15,8 @@
   		<div class="form-group">
  			<div class="col-md-8">
   					<label id="name-id">Enter the name:</label>
-                      <input type="text" class="form-control" id="name">
-                        <button type="submit" class="btn btn-primary">Add</button>
+                      <input type="text" class="form-control" id="name"><br>
+                       <button type="submit" class="btn btn-primary">Add</button>
   			</div>
   		</div>
 	</div>
