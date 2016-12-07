@@ -14,9 +14,11 @@
  	<div class="row">
 		  <div class="col-xs-12 col-sm-6 col-md-12">
   			<div class="form-group form-inline">
-  					<label id="name-id">Enter the name:</label>
-					  <input type="text" class="form-control" id="name">
-                       <button  align="center "type="submit" class="btn btn-primary">Add</button>
+  					<label id="name-id"class="col-xs-2">Enter the name:</label>
+             
+					  <input type="text" class="form-control col-xs-8" id="name">
+             
+                       <button  align="center "type="submit" class="btn btn-primary col-xs-2">Add</button>
   			</div>
   		</div>
 	</div>
