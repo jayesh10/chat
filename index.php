@@ -13,7 +13,7 @@
   <form>
  	<div class="row">
   		<div class="form-group ">
-  					<label id="name-id">Enter the name:</label>
+  					<label id="name-id">Enter the name:</label><br>
                       <input type="text" class="form-control" id="name"><br>
                        <button type="submit" class="btn btn-primary">Add</button>
   			</div>
