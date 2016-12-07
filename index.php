@@ -13,13 +13,8 @@
   <form>
  	<div class="row">
   		<div class="form-group form-inline">
-  			<div class="col-md-4">
   					<label id="name-id">Enter the name:</label>
-            </div>
-            <div class="col-md-8"> 
-                      <input type="text" class="form-control" id="name">
-            </div>
-                
+					  <input type="text" class="form-control" id="name">
                        <button  align="center "type="submit" class="btn btn-primary">Add</button>
   			</div>
   		</div>
