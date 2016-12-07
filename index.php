@@ -12,10 +12,10 @@
 <div class="container-fluid">
   <form>
  		<div class="row">
-  			<div class="form-inline">
+  			<div class="form-horizontal">
   				<div class="form-group ">
-  					<label id="id">Enter the name:</label>        
-					  <input type="text" class="form-control " id="name">
+  					<label id="id" class="control-label col-sm-2">Enter the name:</label>        
+					  <input type="text" class="form-control" id="name">
                        <button  align="center" type="submit" class="btn btn-primary ">Add</button>
 	             </div>
   			</div>
