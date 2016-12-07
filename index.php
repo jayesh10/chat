@@ -15,7 +15,7 @@
   		<div class="form-group ">
   					<label id="name-id">Enter the name:</label>
                       <input type="text" class="form-control" id="name">
-                       <button type="submit" class="btn btn-primary">Add</button>
+                       <button  align="center "type="submit" class="btn btn-primary">Add</button>
   			</div>
   		</div>
 	</div>
