@@ -12,7 +12,7 @@
 <div class="container-fluid">
   <form>
  	<div class="row">
-  		<div class="form-group row">
+  		<div class="form-group ">
  			<div class="col-md-2">
   					<label id="name-id">Enter the name:</label>
              </div>
